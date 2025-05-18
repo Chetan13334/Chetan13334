@@ -39,15 +39,16 @@
 
 - 🔹 Zomato UI Clone (HTML, CSS, JS)
 - 🔹 Online Contact Manager (Java, JDBC, MySQL, Servlets)
-- 🔹 Java Full Stack Course Projects
-- 🔹 Data Analytics Mini Projects
+- 🔹 Java Full Stack Course 
+- 🔹 Data Analytics Course
 
 ---
 
 ## 📬 How to Reach Me
 
-- ✉️ Email: your.email@example.com
-- 🌐 Portfolio (if any): [Link Here]
+- ✉️ Email: chetanpatil0104@gmail.com,
+-            123ckpatil@gmail.com
+- 🌐 Portfolio : 
 
 ---
 
