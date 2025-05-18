@@ -52,7 +52,8 @@
 
 ## 📫 How to reach me
 
-- 📧 Email: your- chetanpatil0104@gmail.com
+- 📧 Email: chetanpatil0104@gmail.com
+- 📧 Email: 123ckpatil@gmail.com
 - 🌐 Portfolio: 
 ---
 
