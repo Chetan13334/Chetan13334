@@ -58,4 +58,4 @@
 
 ## 📄 Resume
 
-Download my [Resume](https://your-resume-link.com) 📄
+Download my [Resume]https://drive.google.com/file/d/13ke46j7NFzs0CDwhF55mjh4v6m8Uvwu-/view. 📄
