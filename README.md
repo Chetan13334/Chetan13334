@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#00c9ff;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF00FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Chetan+Patil;Full+Stack+Developer+%7C+Java+%7C+React;Engineer+%7C+Code+Lover+%7C+Tech+Explorer" alt="Typing SVG" /></h1>
+<h1 align="center" style="color:#00c9ff;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=black&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Chetan+Patil;Java+Developer+%7C+%7C+React;Engineer+%7C+Coder+%7C+Tech+Explorer" alt="Typing SVG" /></h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
