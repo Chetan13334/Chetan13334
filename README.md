@@ -15,7 +15,6 @@
 🔧 Skilled in **Java**, **React**, **Spring Boot**, and **MySQL**  
 🎯 Focused on clean code, problem-solving, and continuous learning  
 📂 Projects include **Managely**, **E-commerce Store**, **Image Editor**, and more  
-📄 [📥 Resume Download](https://drive.google.com/file/d/13ke46j7NFzs0CDwhF55mjh4v6m8Uvwu-/view)
 
 <a href="ResumeChetan.pdf" download style="
   display: inline-block;
