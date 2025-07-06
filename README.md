@@ -17,6 +17,17 @@
 📂 Projects include **Managely**, **E-commerce Store**, **Image Editor**, and more  
 📄 [📥 Resume Download](https://drive.google.com/file/d/13ke46j7NFzs0CDwhF55mjh4v6m8Uvwu-/view)
 
+<a href="ResumeChetan.pdf" download style="
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #00c9ff;
+  color: white;
+  font-weight: bold;
+  border-radius: 6px;
+  text-decoration: none;
+">
+  📄 Download Resume
+</a>
 ---
 
 ## 💼 Tech Toolbox
