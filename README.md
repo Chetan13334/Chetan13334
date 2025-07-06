@@ -27,6 +27,12 @@
 ">
   📄 Download Resume
 </a>
+## 🌐 Connect with Me
+
+📧 Email: [chetanpatil0104@gmail.com](mailto:chetanpatil0104@gmail.com)  
+📧 Backup: [123ckpatil@gmail.com](mailto:123ckpatil@gmail.com)  
+🔗 LinkedIn: [Chetan Patil](https://www.linkedin.com/in/chetan-patil-5ab846297)  
+🌍 Portfolio: (https://chetan13334.github.io/my-portfolio/)
 ---
 
 ## 💼 Tech Toolbox
@@ -58,12 +64,7 @@
 
 ---
 
-## 🌐 Connect with Me
 
-📧 Email: [chetanpatil0104@gmail.com](mailto:chetanpatil0104@gmail.com)  
-📧 Backup: [123ckpatil@gmail.com](mailto:123ckpatil@gmail.com)  
-🔗 LinkedIn: [Chetan Patil](https://www.linkedin.com/in/chetan-patil-5ab846297)  
-🌍 Portfolio: (https://chetan13334.github.io/my-portfolio/)
 
 ---
 
