@@ -1,4 +1,6 @@
-<h1 align="center" style="color:#00c9ff;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=black&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Chetan+Patil;Java+Developer+%7C+%7C+React;Engineer+%7C+Coder+%7C+Tech+Explorer" alt="Typing SVG" /></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Chetan+Patil;Java+Developer+%7C+React+Developer;Engineer+%7C+Coder+%7C+Tech+Explorer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -8,70 +10,72 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 Final-year B.Tech (Electronics Engineering) student  
-💻 Full Stack Developer with a love for building real-world projects  
-🔧 Skilled in **Java**, **React**, **Spring Boot**, and **MySQL**  
-🎯 Focused on clean code, problem-solving, and continuous learning  
-📂 Projects include **Managely**, **E-commerce Store**, **Image Editor**, and more  
+💻 Full Stack Developer with a passion for real-world projects  
+🧠 Currently learning: **Advanced Java**, **Spring Boot**, **MySQL**, **React**  
+🚀 Committed to clean code, performance, and scalable architecture  
+📂 Projects: **Managely**, **E-Commerce Web App**, **Image Editor**, **Analytics Dashboard**
 
-<a href="ResumeChetan.pdf" download style="
-  display: inline-block;
-  padding: 8px 16px;
-  background-color: #00c9ff;
-  color: white;
-  font-weight: bold;
-  border-radius: 6px;
-  text-decoration: none;
-">
-  📄 Download Resume
-</a>
-## 🌐 Connect with Me
+📄 [**Download Resume**](ResumeChetan.pdf)
+
+---
+
+## 📚 Currently Learning
+
+- 🔷 Java Advanced (Multithreading, Collections)
+- 🔷 REST APIs with Spring Boot
+- 🔷 React Hooks and State Management
+- 🔷 SQL Query Optimization
+
+---
+
+## 🌐 Let's Connect
 
 📧 Email: [chetanpatil0104@gmail.com](mailto:chetanpatil0104@gmail.com)  
 📧 Backup: [123ckpatil@gmail.com](mailto:123ckpatil@gmail.com)  
 🔗 LinkedIn: [Chetan Patil](https://www.linkedin.com/in/chetan-patil-5ab846297)  
-🌍 Portfolio: (https://chetan13334.github.io/my-portfolio/)
+🌍 Portfolio: [Visit Portfolio](https://chetan13334.github.io/my-portfolio/)
+
 ---
 
-## 💼 Tech Toolbox
+## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,js,html,css,mysql,spring,git,github,docker,kubernetes,linux" />
+  <img src="https://skillicons.dev/icons?i=java,react,js,html,css,spring,mysql,git,github,docker,linux" />
 </p>
 
 ---
 
-## 🌈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chetan13334&show_icons=true&count_private=true&theme=tokyonight&border_radius=12" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan13334&theme=tokyonight&border_radius=12" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetan13334&show_icons=true&count_private=true&theme=tokyonight&border_radius=12" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan13334&theme=tokyonight&border_radius=12" height="180px" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan13334&layout=compact&theme=tokyonight&border_radius=12" />
 </p>
 
 ---
 
-## 🛠 My Projects
+## 🚀 Featured Projects
 
 ✨ [Managely - Employee Management System](#)  
 🛒 [Full Stack E-Commerce Web App](#)  
-🎨 [Image Editor App (HTML/CSS/JS)](#)  
-📈 [Data Analytics Dashboard (Python + Excel)](#)
+🎨 [Image Editor (HTML/CSS/JS)](#)  
+📊 [Data Analytics Dashboard (Python + Excel)](#)
 
 ---
 
-
-
----
-
-### 🚀 "Code. Learn. Build. Repeat."
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chetan13334&theme=onedark&row=1&column=7" />
 </p>
 
 ---
+
+<h3 align="center">“Code. Learn. Build. Repeat.” 💡</h3>
