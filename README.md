@@ -1,14 +1,11 @@
 <!-- GitHub Profile README for Chetan Patil -->
-
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://chetan13334.github.io/my-portfolio/)
-
 <h1 align="center">Hi 👋, I'm Chetan Patil</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://pixabay.com/illustrations/technology-computer-digital-code-9690449/">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
-  <img src="https://pixabay.com/illustrations/technology-computer-digital-code-9690449/" alt="chetan13334" />
+  <img src="https://komarev.com/ghpvc/?username=Chetan13334&label=Profile%20views&color=0e75b6&style=flat" alt="chetan13334" />
 </p>
 
 ---
