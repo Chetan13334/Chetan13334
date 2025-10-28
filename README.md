@@ -1,67 +1,103 @@
-<!-- GitHub Profile README for Chetan Patil -->
-<h1 align="center">Hi 👋, I'm Chetan Patil</h1>
-<h3 align="center">A passionate Full Stack Java Developer from India</h3>
+<div align="center">
+  <a href="https://github.com/Chetan13334">
+    <img src="https://komarev.com/ghpvc/?username=Chetan13334&style=flat-square" alt="Profile views">
+  </a>
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
----
-
-- 🔬 Final-year B.Tech (Electronics Engineering) student  
-- 💻 Full Stack Developer with real-world project experience
-- 🧠 Currently learning **Advanced Java**, **Spring Boot**, **MySQL**, **React**
-- ✨ Projects: **Managely**, **E-Commerce App**, **Image Editor**, **Analytics Dashboard**
-- 📄 [**Download Resume**](ResumeChetan.pdf)
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Chetan Patil Coding" width="350"/>
+  <h1>Hey there! I'm Chetan Patil 👋</h1>
+  <h3>Full Stack Java Developer | B.Tech Final Year Student</h3>
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/chetan-patil-5ab846297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:chetanpatil0104@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Chetan13334"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+## 🚀 The Quick Scoop
+
+I'm a final-year **Electronics Engineering** student passionately building scalable solutions with **Java and Spring Boot**. I transition complex ideas into clean, functional code, and I'm always chasing the next technology to master.
+
+| Status | Tech Focus | Goal |
+| :--- | :--- | :--- |
+| 🧑‍💻 **Developer** | Full Stack (Java/React) | Building robust and scalable applications. |
+| 🎓 **Student** | B.Tech Final Year | Actively seeking **Full Stack** roles/internships. |
+| 🌱 **Learning** | **Advanced Java**, **React**, **SQL Optimization** | Mastering concurrency, state management, and performance. |
+
+<br>
+<div align="center">
+  <a href="ResumeChetan.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-FF5733?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume" />
+  </a>
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ My Current Toolbox
 
-- 🔹 Java (Multithreading, Collections)
-- 🔹 REST APIs with Spring Boot
-- 🔹 React Hooks & State Management
-- 🔹 SQL Query Optimization
-
----
-
-## 🧰 Tech Toolbox
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,js,html,css,spring,mysql,git,github,docker,linux" />
-</p>
-
----
-
-## 📊 GitHub Stats
+A snapshot of the primary technologies I use to build and deploy applications.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chetan13334&show_icons=true&count_private=true&theme=tokyonight&border_radius=12" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan13334&theme=tokyonight&border_radius=12" height="180px" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,js,html,css,git,github,docker,linux&perline=7" />
 </p>
+
+---
+
+## 💡 Featured Projects
+
+Highlights from my portfolio, demonstrating full-stack development and core technical skills.
+
+- **[Managely - Employee Management System](#)**: Comprehensive **Full Stack** platform for HR workflows.
+- **[E-Commerce App](#)**: End-to-end e-commerce solution with authentication, catalog, and checkout features.
+- **[Data Analytics Dashboard](#)**: Python-based tool for visualization and reporting from large datasets.
+- **[Image Editor](#)**: Front-end project showcasing vanilla JS DOM manipulation.
+
+---
+
+## 🎯 What's Next? (Deep Dive)
+
+Focused areas for my immediate growth and skill mastery:
+
+* **Java:** Deep dive into **Multithreading** and concurrent programming.
+* **APIs:** Building complex, secure **RESTful APIs** with Spring Security.
+* **React:** Advanced **State Management** (Redux/Zustand) and performance tuning.
+* **DB:** Practical application of **SQL Query Optimization** and indexing.
+
+---
+
+## 📊 GitHub Insights
+
+*My contributions and activity over time. Using the theme `shadow-green` for a fresh look!*
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetan13334&show_icons=true&count_private=true&theme=shadow_green&border_radius=12&line_height=25" height="180px" alt="Chetan's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan13334&theme=shadow_green&border_radius=12" height="180px" alt="Chetan's GitHub Streak"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan13334&layout=compact&theme=shadow_green&border_radius=12" alt="Chetan's Top Languages"/>
+</div>
+
+<br>
+
+<div align="center">
+  [![Chetan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Chetan13334&theme=xcode)](https://github.com/Chetan13334)
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+Reach out—I'm always open to discussing new projects, tech, or opportunities!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan13334&layout=compact&theme=tokyonight&border_radius=12" />
+  <a href="https://linkedin.com/in/chetan-patil-5ab846297" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:chetanpatil0104@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Chetan13334">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
-[![Chetan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Chetan13334&theme=xcode)](https://github.com/Chetan13334)
-
----
-
-## ✨ Featured Projects
-
-- [Managely - Employee Management System](#)
-- [Full Stack E-Commerce App](#)
-- [Image Editor (HTML/CSS/JS)](#)
-- [Data Analytics Dashboard (Python + Excel)](#)
-
----
-
-<h3 align="center">“Code. Learn. Build. Repeat.” 💡</h3>
+<h4 align="center">**`console.log("Code. Learn. Build. Repeat.");`**</h4>
