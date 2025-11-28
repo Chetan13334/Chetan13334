@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Glow Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=2800&pause=1000&center=true&vCenter=true&width=500&height=60&lines=Hello+I'm+Chetan+Patil+👋;Full+Stack+Java+Developer;React+%7C+Spring+Boot+%7C+SQL" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3800&pause=1000&center=true&vCenter=true&width=500&height=60&lines=Hello+I'm+Chetan+Patil+👋;Full+Stack+Java+Developer;React+%7C+Spring+Boot+%7C+SQL" />
 
   <br/>
 
