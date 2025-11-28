@@ -36,11 +36,66 @@ I build **scalable, secure & production-grade applications** using
 ---
 
 ## ⚙️ **Tech Arsenal (Glassmorphism Style)**  
-<div align="center">
+
+
+<div align="center" style="
+  padding: 22px;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+  max-width: 900px;
+  margin: auto;
+">
+
+  <!-- ROW 1 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" title="Java"/>
+  <img src="https://cdn.simpleicons.org/javascript" height="50" title="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/typescript" height="50" title="TypeScript"/>
+  <img src="https://cdn.simpleicons.org/react" height="50" title="ReactJS"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" height="50" title="NextJS"/>
+  <img src="https://cdn.simpleicons.org/redux" height="50" title="Redux"/>
+
   
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,react,js,ts,nodejs,html,css,tailwind,jest,git,github,docker,postman,linux&theme=light" />
+  <!-- ROW 2 -->
+  <img src="https://cdn.simpleicons.org/nodedotjs/darkgreen" height="50" title="NodeJS"/>
+  <img src="https://cdn.simpleicons.org/express/white" height="50" title="ExpressJS"/>
+  <img src="https://cdn.simpleicons.org/mongodb/darkgreen" height="50" title="MongoDB"/>
+  <img src="https://cdn.simpleicons.org/postgresql/skyblue" height="50" title="PostgreSQL"/>
+  <img src="https://cdn.simpleicons.org/mysql" height="50" title="MySQL"/>
+  <img src="https://cdn.simpleicons.org/prisma/blue" height="50" title="Prisma"/>
+
+  <br/><br/>
+
+  <!-- ROW 3 -->
+  <img src="https://cdn.simpleicons.org/firebase" height="50" title="Firebase"/>
+  <img src="https://cdn.simpleicons.org/docker" height="50" title="Docker"/>
+  <img src="https://cdn.simpleicons.org/kubernetes/blue" height="50" title="Kubernetes"/>
+  <img src="https://cdn.simpleicons.org/vercel/white" height="50" title="Vercel"/>
+  <img src="https://cdn.simpleicons.org/git" height="50" title="Git"/>
+  <img src="https://cdn.simpleicons.org/github/white" height="50" title="GitHub"/>
+
+ 
+
+  <!-- ROW 4 -->
+  <img src="https://cdn.simpleicons.org/html5" height="50" title="HTML5"/>
+  <img src="https://cdn.simpleicons.org/css" height="50" title="CSS3"/>
+  <img src="https://cdn.simpleicons.org/bootstrap" height="50" title="Bootstrap"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss" height="50" title="TailwindCSS"/>
+  <img src="https://cdn.simpleicons.org/framer" height="50" title="Framer Motion"/>
+  <img src="https://cdn.simpleicons.org/gsap" height="50" title="GSAP"/>
+
+  <br/><br/>
+
+  <!-- ROW 5 -->
+  <img src="https://cdn.simpleicons.org/shadcnui/white" height="50" title="Shadcn UI"/>
+  <img src="https://cdn.simpleicons.org/ionic" height="50" title="Ionic"/>
+  <img src="https://cdn.simpleicons.org/postman" height="50" title="Postman"/>
+  <img src="https://cdn.simpleicons.org/spring" height="50" title="Spring Boot"/>
 
 </div>
+
 
 ---
 
