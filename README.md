@@ -6,7 +6,7 @@
 
   <br/>
 
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="860" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="660" />
 
   <br/><br/>
 
