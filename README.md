@@ -79,19 +79,6 @@ I specialize in:
 
 </div>
 
----
-
-## 📄 Resume
-
-<div align="center">
-
-<a href="ChetanPatil_Resume2026.pdf">
-<img src="https://img.shields.io/badge/Download_Resume-00ffa2?style=for-the-badge&logo=googledocs&logoColor=000" />
-</a>
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
