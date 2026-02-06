@@ -71,22 +71,6 @@ I specialize in:
 | DB | Indexing, Optimization | Faster queries |
 | System Design | LLD & HLD | Product-ready systems |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chetan13334&show_icons=true&theme=transparent&hide_border=true&title_color=00ffe1&text_color=e6e6e6&icon_color=00ffe1" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan13334&theme=transparent&hide_border=true&ring=00ffe1&fire=00ffe1&currStreakLabel=00ffe1" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan13334&layout=compact&theme=transparent&hide_border=true&title_color=00ffe1&text_color=ffffff" />
-
-</div>
-
----
-
 ## 🌐 Contribution Activity
 
 <div align="center">
