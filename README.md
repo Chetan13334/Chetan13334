@@ -102,17 +102,6 @@ I specialize in:
 
 
 ---
-
-## 🎯 Learning Roadmap (2026)
-
-| Area | Focus | Goal |
-|------|--------|------|
-| Java | Concurrency, Multithreading | High-performance backend |
-| Spring | Security, OAuth2 | Enterprise auth systems |
-| React | Redux Toolkit, Zustand | Scalable UI |
-| DB | Indexing, Optimization | Faster queries |
-| System Design | LLD & HLD | Product-ready systems |
-
 ## 🌐 Contribution Activity
 
 <div align="center">
